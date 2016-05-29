@@ -1,0 +1,241 @@
+ul {
+  margin: 0;
+}
+.container  {
+  width: 1170px;
+  margin: 0px auto;
+}
+.clearfix {
+  clear: both;
+}
+nav {
+  float: right;
+}
+#header{
+  background-color: black;
+  height:45px;
+}
+#header .background-color{
+
+}
+#header .container{
+  background-color: blue;
+}
+#header .welcome{
+  float: left;
+  color:white;
+}
+#header p{
+  font-size: 100%;
+  color:black;
+}
+#header .contact{
+  float:right;
+  height:45px;
+}
+#header .phone{
+    box-sizing: border-box;
+    height: 45px;
+    width: 200px;
+    text-align: right;
+    position:relative;
+    top:-15px;
+    line-height: 46px;
+}
+#header p{
+      color:white;
+}
+#header .email{
+    position: relative;
+    left: -180px;
+    top: -76px;
+    box-sizing: border-box;
+    height: 45px;
+    width: 200px;
+    border-right-color: white;
+    border-right-style: solid;
+    line-height: 46px;
+    color:white;
+}
+.title .container{
+
+}
+.title .logo{
+  float:left;
+  background-color: red;
+  width: 240px;
+  height: 120px;
+}
+.title .info{
+  float:right;
+  width: 580px;
+  height: 120px;
+
+}
+.title .location{
+  float:right;
+  width:280px;
+  height:120px;
+}
+.title .opening-hour{
+  float: right;
+  width:300px;
+  height:120px;
+}
+.nav{
+  width:1170px;
+  margin:0px auto;
+  background-color: orange;
+  display:inline-block;
+
+}
+.nav ul{
+  display: inline-block;
+  list-style-type: none;
+  text-align: center;
+}
+.nav li{
+
+  float:left;
+  height:60px;
+  line-height: 60px;
+  color: white;
+
+}
+.nav a{
+  color:white;
+  padding:20px;
+  text-decoration: none;
+}
+#slider{
+  background-color: purple;
+  display: inline-block;
+  width: 100%;
+  height: 600px;
+}
+.renovation{
+    height: 250px;
+}
+.renovation .container{
+  height:250px;
+}
+.renovation .title{
+    position: relative;
+    bottom: -140px;
+    left: 30%;
+    display: inline-block;
+    text-align: center;
+    width: 480px;
+    font-weight: bold;
+}
+.section .container{
+    display: inline-block;
+    width: 50%;
+    float: left;
+    padding-top: 70px;
+    text-align: right;
+    height:415px;
+}
+.section .content{
+    position: relative;
+    bottom: -114px;
+    left: -22px;
+    float: left;
+    width: 400px;
+    height: 366px;
+    border-style: solid;
+    border-color: yellow;
+}
+.services{
+    height: 250px;
+
+}
+.services .container{
+  height:250px;
+  background-color: red;
+}
+.services .title{
+    position: relative;
+    bottom: -140px;
+    left: 30%;
+    display: inline-block;
+    text-align: center;
+    width: 480px;
+
+}
+.services .row{
+  background-color: green;
+  float: left;
+  display: inline-block;
+  text-align: center;
+  bottom: -185px;
+  position: relative;
+}
+.services .col-4 {
+  position: relative;
+  width: 370px;
+  height: auto;
+  float: right;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+.services .col-4:nth-child(3n){
+  margin-right: 15px;
+}
+.projects{
+    position: relative;
+    top: 445px;
+
+    background-color: yellow;
+    height: 317px;
+}
+.projects .title{
+  text-align: center;
+}
+.projects .container .container{
+    display: inline-block;
+    position: relative;
+    top: -185px;
+}
+.projects .nav2{
+  width:1170px;
+  margin:0px auto;
+  display:inline-block;
+}
+.nav2 ul{
+  display: inline-block;
+  list-style-type: none;
+  text-align: center;
+
+}
+.nav2 li{
+
+  float:left;
+  height:60px;
+  line-height: 60px;
+
+}
+.nav2 a{
+  padding:20px;
+  text-decoration: none;
+    color:black;
+}
+.row2{
+  background-color: green;
+  position: relative;
+  bottom: -610px;
+}
+.row2 .col-3{
+  float:left;
+  box-sizing: inline-block;
+  margin:0px,0px,0px,0px;
+  border:none;
+}
+
+
+
+
+
+
+
+
